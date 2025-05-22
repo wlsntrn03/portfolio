@@ -1,0 +1,52 @@
+@import "../../vars.css";
+
+.container {
+  position: relative;
+  background-color: rgba(101, 201, 234, 0.65);
+  border-radius: 0.938rem;
+  padding: 4.563rem;
+  margin-top: 4rem;
+  z-index: 1;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.title {
+  color: black;
+  font-size: 2.188rem;
+  font-weight: 700;
+  letter-spacing: 0.109rem;
+  text-transform: uppercase;
+  margin-bottom: 5%;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.625rem;
+}
+
+.content p {
+  color: black;
+  font-size: 1.25rem;
+  font-weight: normal;
+}
+
+.content img {
+  margin-bottom: 0.5rem;
+}
+
+.aboutImage {
+  width: 40%;
+  box-shadow: 0 0.313rem 0.188rem 0 rgba(4, 21, 45, 0.3);
+}
+
+@media screen and (max-width: 40rem) {
+  .aboutImage {
+    width: 100%;
+  }
+  .container {
+    text-align: center;
+  }
+}
