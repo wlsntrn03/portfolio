@@ -16,7 +16,7 @@
     "source": "https://github.com/cloudy1000/ToDoList"
   },
   {
-    "title": "3D Graphic Transformations",
+    "title": "3D Graphics Transformation",
     "imageSrc": "projects/Trackball.PNG",
     "description": "A program that allows basic transformations (translation, scaling, rotation) of a 3D object through keyboard interactions.",
     "skills": ["C++", "OpenGL", "GLUT API"],
