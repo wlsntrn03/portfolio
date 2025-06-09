@@ -1,5 +1,7 @@
 # Wilson Tran Portfolio
 
+Live Preview - [Click Here](https://wilsontran.vercel.app/)
+
 ## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -12,3 +14,13 @@ Currently, two official plugins are available:
 ## Deployment
 
 Deployed via [Vercel](https://vercel.com).
+
+# 🛠 Installation and Setup Instructions
+
+1. Fork and clone this repository. You will need NodeJs and Git installed on your machine.
+
+2. Installation: `npm install`
+
+3. In the project directory, you can run: `npm run dev`\
+Runs the app in the development mode.\
+Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
