@@ -15,9 +15,9 @@ Currently, two official plugins are available:
 
 Deployed via [Vercel](https://vercel.com).
 
-# 🛠 Installation and Setup Instructions
+## Installation and Setup Instructions
 
-1. Fork and clone this repository. You will need NodeJs and Git installed on your machine.
+1. Fork and clone this repository. You will need Node.js and Git installed on your machine.
 
 2. Installation: `npm install`
 
