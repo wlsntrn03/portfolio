@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.svg"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.svg"
+  },
+  {
+    "title": "C",
+    "imageSrc": "skills/c.svg"
+  },
+    {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.svg"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.webp"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node.js",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Firebase",
+    "imageSrc": "skills/firebase.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "GitHub",
+    "imageSrc": "skills/github.png"
+  },
+  {
+    "title": "GitLab",
+    "imageSrc": "skills/gitlab.svg"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.webp"
+  },
+  {
+    "title": "Oracle",
+    "imageSrc": "skills/oracle.svg"
+  },
+  {
+    "title": "Android Studio",
+    "imageSrc": "skills/androidstudio.png"
+  }
+]
