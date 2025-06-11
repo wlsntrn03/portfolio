@@ -26,7 +26,7 @@
   {
     "title": "Wynny",
     "imageSrc": "projects/wynny.png",
-    "description": "A Discord chatbot that has commands to send pictures of dogs and cats (with fun facts), tell jokes, and give fortunes. It also comes with an 8ball feature (answering yes/no questions)!",
+    "description": "A Discord chatbot that has commands to send pictures of dogs and cats (with fun facts), tell jokes, and read fortunes. It also comes with an 8ball feature that can answer yes/no questions!",
     "skills": ["Python", "Discord.py", "REST APIs", "Replit"],
     "demo": "projects/Tarmart.mp4",
     "source": "https://github.com/cloudy1000/Tarmart"
