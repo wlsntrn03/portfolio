@@ -1,9 +1,7 @@
 :root {
   --color-text: #fff;
-  --color-primary: #576cbc;
-  --color-secondary: #19376d;
-  --color-dark: #0b2447;
-  --color-bg: #04152d;
-
-  --font-roboto: "Courier New";
+  --color-primary: rgb(175, 175, 175);
+  --color-secondary: rgb(100, 100, 100);
+  --color-dark: rgb(75, 75, 75);
+  --color-bg: #000000;
 }

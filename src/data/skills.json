@@ -32,6 +32,14 @@
     "imageSrc": "skills/node.png"
   },
   {
+    "title": "Android SDK",
+    "imageSrc": "skills/android.png"
+  },
+  {
+    "title": "XML",
+    "imageSrc": "skills/xml.svg"
+  },
+  {
     "title": "Firebase",
     "imageSrc": "skills/firebase.png"
   },
@@ -44,19 +52,11 @@
     "imageSrc": "skills/github.png"
   },
   {
-    "title": "GitLab",
-    "imageSrc": "skills/gitlab.svg"
+    "title": "Gradle",
+    "imageSrc": "skills/gradle.png"
   },
   {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.webp"
-  },
-  {
-    "title": "Oracle",
-    "imageSrc": "skills/oracle.svg"
-  },
-  {
-    "title": "Android Studio",
-    "imageSrc": "skills/androidstudio.png"
+    "title": "Bash",
+    "imageSrc": "skills/bash.png"
   }
 ]

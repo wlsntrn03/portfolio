@@ -8,6 +8,7 @@ export const Navbar = () => {
 
   return (
     <nav className={styles.navbar}>
+      <img className={styles.badge} src="https://visitor-badge.laobi.icu/badge?page_id=wilson" alt="visitors" />
       <a href="/">
         <img src={getImageUrl("nav/atom.png")} alt="atom logo" className={styles.logoImg}/>
       </a>

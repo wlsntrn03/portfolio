@@ -3,25 +3,26 @@
 .container {
   color: var(--color-text);
   margin-top: 120px;
-  background-color: rgba(101, 201, 234, 0.244);
+  background-color: var(--color-dark);
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
   width: 100%;
-  padding: 50px 6%;
-  gap: 10px;
+  padding: 35px;
+  gap: 50px;
 }
 
 .text h2 {
-  font-size: 80px;
+  font-size: 70px;
   font-weight: 700;
-  letter-spacing: 4px;
+  letter-spacing: 5px;
 }
 
 .text p {
-  font-size: 40px;
+  text-align: center;
+  font-size: 30px;
   font-weight: 400;
-  letter-spacing: 2px;
+  letter-spacing: 2.5px;
 }
 
 .links {
@@ -29,25 +30,28 @@
   flex-direction: column;
   align-items: flex-start;
   list-style: none;
-  gap: 26px;
+  gap: 25px;
 }
 
 .link {
   display: flex;
   align-items: center;
-  gap: 1.563rem;
+  gap: 1.5rem;
   width: 100%;
 }
 
 .link a {
-  color: rgb(169, 223, 255);
+  color: rgb(255, 255, 255);
   text-decoration: none;
-  font-size: 1.875rem;
-  font-weight: 400;
-  letter-spacing: 1.5px;
+  font-size: 1.7rem;
+  font-weight: bold;
 }
 
-@media screen and (max-width: 40rem) {
+.link a:hover {
+  color: #e6fb61;
+}
+
+@media screen and (max-width: 600px) {
   .container {
     flex-direction: column;
     gap: 1.438rem;

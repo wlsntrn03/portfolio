@@ -1,49 +1,33 @@
 [
   {
-    "title": "Memory Card Game",
-    "imageSrc": "projects/MemoryGame.PNG",
-    "description": "An Android app for playing a typical memory card game. Players must match 2 of the same cards, and they must find all matching pairs to win!",
-    "skills": ["Java", "XML", "Android Studio"],
-    "demo": "projects/Connect3.mp4",
-    "source": "https://github.com/cloudy1000/Connect3"
+    "title": "MyLangTools",
+    "imageSrc": "projects/books.png",
+    "description": "A language tool website that serves as a Dictionary, Thesaurus, and Translator. Users can search up the definition of a word, retrieve a list of synonyms and antonyms, or translate text!",
+    "skills": ["React", "Javascript", "HTML", "CSS", "REST APIs"],
+    "demo": "https://mylangtools.vercel.app/",
+    "source": "https://github.com/wlsntrn03/my-lang-tools"
   },
   {
-    "title": "Workout Manager App",
-    "imageSrc": "projects/WorkoutApp.PNG",
-    "description": "An android app that allows for user authentication through Firebase. Users can manage their exercises, where their data is stored in Cloud Firestore.",
-    "skills": ["Java", "XML", "Android Studio", "SQLite DB", "Firebase"],
+    "title": "Workout Manager",
+    "imageSrc": "projects/muscles.png",
+    "description": "An Android app that helps manage workouts, with features for registering and logging in to save progress. Users can create/edit/delete exercises, and track workouts based on the number of remanining sets!",
+    "skills": ["Java", "XML", "Firebase", "Android Studio", "Gradle"],
     "demo": "projects/ToDoList.mp4",
     "source": "https://github.com/cloudy1000/ToDoList"
   },
   {
-    "title": "3D Graphic Transformations",
-    "imageSrc": "projects/Trackball.PNG",
-    "description": "A program that allows basic transformations (translation, scaling, rotation) of a 3D object through keyboard interactions.",
-    "skills": ["C++", "OpenGL", "GLUT API"],
+    "title": "Memory Card Game",
+    "imageSrc": "projects/card.jpg",
+    "description": "An Android app for a typical memory matching card game. Users must match all pairs of cards in order to win. The app comes with an easy mode (small board) and a hard mode (lagre board)!",
+    "skills": ["Java", "XML", "Android Studio", "Gradle"],
     "demo": "projects/CatchingApples.mp4",
     "source": "https://github.com/cloudy1000/CatchingApples"
   },
   {
-    "title": "Graphing Simulator",
-    "imageSrc": "projects/GraphingSimulator.PNG",
-    "description": "A GUI application that allows users to create undirected graphs and simulate Chaitin's Algorithm for coloring nodes.",
-    "skills": ["Java"],
-    "demo": "projects/TipCalculator.mp4",
-    "source": "https://github.com/cloudy1000/TipCalculator"
-  },
-  {
-    "title": "Shell Task Manager",
-    "imageSrc": "projects/Shell.PNG",
-    "description": "A command-line interface that simulates a shell for task/process management, execution, and other features.",
-    "skills": ["C"],
-    "demo": "projects/TravelingSalesman.mp4",
-    "source": "https://github.com/cloudy1000/TravelingSalesman"
-  },
-  {
-    "title": "Discord Chatbot (Wynny)",
-    "imageSrc": "projects/Wynny.PNG",
-    "description": "A Discord chatbot that can send pictures of dogs and cats, tell jokes, recite poems, give fortunes, and much more!",
-    "skills": ["Python"],
+    "title": "Wynny",
+    "imageSrc": "projects/wynny.png",
+    "description": "A Discord chatbot that has commands to send pictures of dogs and cats (with fun facts), tell jokes, and give fortunes. It also comes with an 8ball feature (answering yes/no questions)!",
+    "skills": ["Python", "Discord.py", "REST APIs", "Replit"],
     "demo": "projects/Tarmart.mp4",
     "source": "https://github.com/cloudy1000/Tarmart"
   }

@@ -33,12 +33,12 @@ export const ProjectCard = ({
           ))}
         </ul>
         <div className={styles.links}>
-          <button onClick={handleDemoClick} className={styles.link}>
-            Demo
-          </button>
-          <a href={source} className={styles.link}>
+          <a href={source} className={styles.link} target="_blank">
             Github
           </a>
+          <button onClick={handleDemoClick} className={styles.link}>
+            Demo ➜
+          </button>
         </div>
       </div>
     </div>

@@ -1,3 +1,5 @@
+const images = import.meta.glob('/assets/**/*.{png,jpg,jpeg,svg,webp,PNG,gif}', { eager: true });
+
 export const getImageUrl = (path) => {
-  return new URL(`/assets/${path}`, import.meta.url).href;
+  return images[`/assets/${path}`]?.default;
 };

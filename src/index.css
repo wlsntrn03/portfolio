@@ -2,9 +2,9 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: "Consolas", Arial, Helvetica, sans-serif;
 }
 
-html {
+body {
   scroll-behavior: smooth;
+  font-family: "Century Gothic", Arial, Helvetica, sans-serif;
 }
