@@ -12,23 +12,23 @@
     "imageSrc": "projects/muscles.png",
     "description": "An Android app that helps manage workouts, with features for registering and logging in to save progress. Users can create/edit/delete exercises, and track workouts based on the number of remanining sets!",
     "skills": ["Java", "XML", "Firebase", "Android Studio", "Gradle"],
-    "demo": "projects/ToDoList.mp4",
-    "source": "https://github.com/cloudy1000/ToDoList"
+    "demo": "projects/workout_demo.mp4",
+    "source": "https://github.com/wlsntrn03/workout-manager"
   },
   {
     "title": "Memory Card Game",
-    "imageSrc": "projects/card.jpg",
-    "description": "An Android app for a typical memory matching card game. Users must match all pairs of cards in order to win. The app comes with an easy mode (small board) and a hard mode (lagre board)!",
+    "imageSrc": "projects/card.png",
+    "description": "An Android app for a typical memory card matching game. Users must match all pairs of cards in order to win. The app comes with an easy mode (small board) and a hard mode (lagre board)!",
     "skills": ["Java", "XML", "Android Studio", "Gradle"],
-    "demo": "projects/CatchingApples.mp4",
-    "source": "https://github.com/cloudy1000/CatchingApples"
+    "demo": "projects/memory_demo.mp4",
+    "source": "https://github.com/wlsntrn03/memory-card-game"
   },
   {
     "title": "Wynny",
     "imageSrc": "projects/wynny.png",
     "description": "A Discord chatbot that has commands to send pictures of dogs and cats (with fun facts), tell jokes, and read fortunes. It also comes with an 8ball feature that can answer yes/no questions!",
     "skills": ["Python", "Discord.py", "REST APIs", "Replit"],
-    "demo": "projects/Tarmart.mp4",
-    "source": "https://github.com/cloudy1000/Tarmart"
+    "demo": "projects/wynny_demo.mp4",
+    "source": "https://github.com/wlsntrn03/Wynny"
   }
 ]
