@@ -2,8 +2,6 @@
 
 Live Preview - [Click Here](https://wilsontran.vercel.app/)
 
-![image](https://raw.githubusercontent.com/wlsntrn03/portfolio/refs/heads/main/assets/portfolio_demo.PNG)
-
 ## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

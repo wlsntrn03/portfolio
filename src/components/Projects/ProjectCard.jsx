@@ -22,7 +22,7 @@ export const ProjectCard = ({
         alt={`Image of ${title}`}
         className={styles.image}
       />
-      <div className={styles.content}> {}
+      <div className={styles.content}> { }
         <h3 className={styles.title}>{title}</h3>
         <p className={styles.description}>{description}</p>
         <ul className={styles.skills}>
@@ -39,6 +39,11 @@ export const ProjectCard = ({
           <button onClick={handleDemoClick} className={styles.link}>
             Demo ➜
           </button>
+          {title === "Memory Card Game" && (
+            <a href="/memory-card-game.apk" download className={styles.link}>
+              Download
+            </a>
+          )}
         </div>
       </div>
     </div>
