@@ -40,7 +40,7 @@ export const ProjectCard = ({
             Demo ➜
           </button>
           {title === "Memory Card Game" && (
-            <a href="/memory-card-game.apk" download className={styles.link}>
+            <a href="/Memory.apk" download className={styles.link}>
               Download
             </a>
           )}
